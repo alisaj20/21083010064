@@ -1,0 +1,7 @@
+echo "Tugas 1 Sistem Operasi Kelas B"
+echo "-----------------------------------------"
+echo "Nama : Alisa Jihan Azizah"
+echo "NPM  :  21083010064"
+echo "-----------------------------------------"
+echo "Hello World"
+echo "Ini adalah skrip bash pertamaku di linux"
