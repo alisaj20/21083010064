@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# mendeskripsikan fungsi
+# mendeklarasikan fungsi
 function nama {
 	echo "Siapa namamu?"
 	read nama
